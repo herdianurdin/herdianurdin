@@ -12,8 +12,3 @@ A student of Informatics, Putra Indonesia University with an interest in Softwar
 - Front-End Development using **HTML, CSS, JavaScript, React.js**
 - Back-End development using **PHP, JavaSript**
 - Mobile development using **Kotlin, React Native, Flutter**
-
-## Github Stats
-<a href="https://github.com/herdianurdin/herdianurdin">
- <img alt="Herdi Herdianurdin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=herdianurdin&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
